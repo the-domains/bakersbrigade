@@ -1,19 +1,4 @@
-name: BakersBrigade
-favicon: null
-layout_spectrum: 0.5791546299587935
 typography_spectrum: 0.8969271131791174
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -25,4 +10,20 @@ color:
   lightness: 0.2850446794182062
   saturation: 0.6265111325774342
   rhythmicContrast: 0.30804408341646194
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5791546299587935
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: BakersBrigade
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: A Big Cake
 purpose: []
